@@ -22,3 +22,12 @@ Select an image and adjust the filter controls.
 ## Running Locally
 
 Open `index.html` in a modern web browser.
+## Manual Testing Checklist
+
+- [ ] Adjust brightness and verify the preview.
+- [ ] Change contrast, saturation and blur settings.
+- [ ] Copy the CSS filter and compare the selected values.
+
+### Test Notes
+
+Record the observed result and any reproducible issue after running the tests.
